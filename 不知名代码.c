@@ -1,4 +1,4 @@
-#include<stdio.h>//乱改的
+#include<stdio.h>//乱改的,练习一把
 #include<stdlib.h>
 #include<string.h>
 typedef struct{
